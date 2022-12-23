@@ -1,2 +1,2 @@
-# greensloth
+Greensloth
 my project
